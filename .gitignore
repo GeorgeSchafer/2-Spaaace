@@ -1,7 +1,7 @@
-/Spaaace.dbs
-/Spaaace.wad.backup1
-/Spaaace.wad.backup2
-/Spaaace.wad.backup3
-/Spaaace.wad.bak
+*.dbs
+*.backup1
+*.backup2
+*.backup3
+*.bak
 gzdoom.pk3
 DOOM2.WAD
