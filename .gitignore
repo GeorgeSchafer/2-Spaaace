@@ -1,3 +1,9 @@
+/alpha/*.dbs
+/alpha/*.backup1
+/alpha/*.backup2
+/alpha/*.backup3
+/alpha/*.bak
+
 *.dbs
 *.backup1
 *.backup2
